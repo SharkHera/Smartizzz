@@ -52,6 +52,10 @@ if (isset($_POST['submit'])) {
 	<div class="logo"> 
       <img src="css/images/smartiz(5).png" alt="Site Logo">   
     </div>
+	<div class="interrupteur">
+		<input type="checkbox" id="switch" name="switch">
+  		<label for="switch" class="switch"></label>
+	</div>
 	<section class="login first grey">
 		<div class="container">
 			<div class="box-wrapper">
