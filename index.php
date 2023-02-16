@@ -15,13 +15,26 @@
 <div class="logo"> 
     <img src="css/images/smartiz(5).png" alt="Site Logo">
 </div>
+
         <center>
             <div class="intro">
-               
+               <p class="presentation">Welcome to our quizz game !</p>
+               <p class="presentation"> Play and compete with your friends !</p>
                 <a href="login.php" class="btn"> login </a> &emsp;
                 <a href="register.php" class="btn"> register </a>
                 <h2> Have &nbsp;Fun. </h2>
             </div>
         </center>
+        <div class="credit">
+            <p class="text-credit">Made By:</p>
+        </div>
+        <div class="logo-2">
+        <div class="espace">
+            <a href="https://github.com/DevFoxie"><img class=" mini-logo" src="css/images/foxie.jpeg" alt="Foxie's Github"></a>
+        </div>
+        <a href="https://github.com/SharkHera"><img class=" mini-logo" src="css/images/Sharky(2).jpeg" alt="Sharky's GitHub"></a>
+
+
 </body>
+
 </html>

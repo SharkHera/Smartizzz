@@ -85,7 +85,7 @@
 
 		<div class="wrapper">
     <a class="cta" href="index.php">
-      <span>Acceuil</span>
+      <span>Index</span>
       <span>
         <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -105,7 +105,11 @@
     </a>
   </div>
 
+
+
+
 		<script src="js/jquery.js"></script>
 		<script src="scripts/bootstrap/bootstrap.min.js"></script>
 	</body>
+	
 </html>
